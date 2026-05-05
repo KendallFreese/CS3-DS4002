@@ -11,7 +11,5 @@ The materials folder contains supplemententry context and information to help in
 
 L. Elneel, M. S. Zitouni, H. Mukhtar, and H. Al-Ahmad, “Examining sea levels forecasting using autoregressive and prophet models,” Scientific Reports, vol. 14, no. 1, Jun. 2024, doi: https://doi.org/10.1038/s41598-024-65184-0.
 ‌
-R. Lindsey and M. Scott, “Climate Change: Arctic Sea Ice Summer Minimum | NOAA Climate.gov,” www.climate.gov, Oct. 18, 2022. https://www.climate.gov/news-features/understanding-climate/climate-change-arctic-sea-ice-summer-minimum
-
 ## Data
 The data folder contains the dataset necessary for analysis. 
